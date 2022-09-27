@@ -1,0 +1,19 @@
+#Text{
+    text-align: left;
+}
+
+#Subtitle{
+    text-decoration: underline;
+    color: darkgreen;
+}
+
+#Title{
+    text-decoration: underline;
+    font-weight: bold;
+    color: navy;
+}
+
+*{
+    background-color: rgb(115, 115, 180);
+    font-family: Fantasy;
+ }
